@@ -19,4 +19,11 @@ Before you begin, ensure you have met the following requirements:
 -****
 
 
-##Installation
+## Installation
+To install and run this project locally on your machine:
+
+1. Clone the repository
+2. Navigate to the project directory: `cd main`
+3. Install the dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Use Neo4j to run this
